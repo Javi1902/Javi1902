@@ -1,48 +1,40 @@
-# Hey, I'm Javier! 👋
+# Javier
 
-<p align="center">
-  <b>Web Development Learner</b>
-  <br>
-  Building websites, experimenting with code and creating small games.
-</p>
+**Web development · Personal projects · Game development**
 
----
+Hi! I'm Javier. I enjoy building websites, experimenting with JavaScript and creating small projects just for fun.
 
-### 👨‍💻 About Me
+I'm currently learning more about web development and exploring different areas of programming.
 
-- 🌐 I enjoy building websites and personal projects.
-- 🎮 I like experimenting with game development.
-- 📚 Currently improving my JavaScript and web development skills.
-- 🚀 Interested in becoming a Full Stack Developer.
-- 🌱 Always learning something new.
+### A little about me
 
-### 🛠️ Technologies & Tools
+- I like making websites and interactive projects.
+- Currently improving my JavaScript skills.
+- Interested in frontend, backend and game development.
+- Always experimenting with new ideas.
 
-**Currently working with:**
+### What I use
 
-![HTML](https://skillicons.dev/icons?i=html,css,js,git,github)
+`HTML` `CSS` `JavaScript` `Git` `GitHub`
 
-**My development environment:**
+### Some things I've built
 
-![Tools](https://skillicons.dev/icons?i=vscode,neovim)
+**CHbuttons**
 
-### 🚀 Featured Projects
+A little collection of sounds, music and funny buttons.
 
-| Project | Description |
-|---|---|
-| [CHbuttons](https://github.com/Javi1902/chbuttons) | A collection of funny sounds, music and interactive buttons. |
-| [Tengue-Clicker-RECODE](https://github.com/Javi1902/Tengue-Clicker-RECODE) | A clicker game project with custom mechanics and upgrades. |
-| [Premios Piston](https://github.com/Javi1902/PREMIOS-PISTON----2da-EDICION) | A website for a community awards and voting project. |
+**Tengue-Clicker-RECODE**
 
-### 🎯 Goals
+An incremental clicker game with custom mechanics and upgrades.
 
-- Improve my JavaScript fundamentals.
-- Build more complex web applications.
-- Learn backend development and databases.
-- Explore software engineering and game development.
+**Premios Piston**
+
+A website made for a community awards and voting project.
+
+### Currently
+
+Learning, building things and figuring stuff out one project at a time.
 
 ---
 
-<p align="center">
-  <i>Learning, building and improving one project at a time.</i>
-</p>
+*Thanks for stopping by.*
