@@ -45,7 +45,7 @@ Hi! I'm Javier. I enjoy making websites, learning new things and working on pers
 ## Contributions
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/3FB950/Javi1902" width="100%" alt="GitHub Contributions" />
+  ![contributions](https://contribkit.app/user/javi1902.svg)
 </p>
 
 <p align="center">
