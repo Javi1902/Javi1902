@@ -1,4 +1,3 @@
-```markdown
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:142B27,100:236B60&height=180&section=header&text=Javier&fontSize=48&fontColor=EAF2EC&fontAlignY=38&desc=Web%20Development%20%7C%20Personal%20Projects&descSize=15&descAlignY=60" width="100%" />
 </p>
@@ -56,4 +55,3 @@ Hi! I'm Javier. I enjoy making websites, learning new things and working on pers
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:236B60,100:142B27&height=100&section=footer" width="100%" />
 </p>
-```
