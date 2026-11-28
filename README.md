@@ -21,16 +21,16 @@ Hi! I'm Javier. I enjoy making websites, learning new things and working on pers
 ## Technologies & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,neovim&theme=dark" />
 </p>
 
 ## My projects
 
 | Project | Description |
 |:--|:--|
-| [CHbuttons](https://github.com/Javi1902/chbuttons) | A website with sounds and music. |
+| [CHbuttons](https://github.com/Javi1902/chbuttons) | A website with funny sounds. |
 | [Tengue-Clicker-RECODE](https://github.com/Javi1902/Tengue-Clicker-RECODE) | A clicker project with upgrades and custom features. |
-| [Premios Piston](https://github.com/Javi1902/PREMIOS-PISTON----2da-EDICION) | A website for an awards and voting project. |
+| [Premios Piston](https://github.com/Javi1902/PREMIOS-PISTON----2da-EDICION) | An awards project with a custom website. |
 
 ## GitHub Statistics
 
